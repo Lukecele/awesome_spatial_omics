@@ -139,3 +139,5 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 #### Interactive tool
 
 * [VITESSCE](https://github.com/vitessce/vitessce) Visual Integration Tool for Exploration of Spatial Single-Cell Experiments
+
+* [spatial-sanctuary](https://github.com/Lukecele/spatial-oncology-master) - Mathematical modeling and reaction-diffusion framework (Helmholtz/Bessel equations) to estimate spatial pharmacological sanctuaries in EGFR-mutant NSCLC under Osimertinib. Includes a clinical cohort (MSKCC) analysis and an interactive [Hugging Face Simulator](https://huggingface.co/spaces/Lucace/spatial-oncology-simulator). DOI: 10.5281/zenodo.23623653
